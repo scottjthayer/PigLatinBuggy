@@ -72,13 +72,13 @@ namespace PigLatin
             {
                 if (IsVowel(word[i]) == true)
                 {
-                    vowelIndex = i - 1;
+                    vowelIndex = i;
                     break;
                 }
             }
 
-            string sub = word.Substring(vowelIndex + 1);
-            string postFix = word.Substring(0, vowelIndex + 1);
+            string sub = word.Substring(vowelIndex);
+            string postFix = word.Substring(0, vowelIndex);
 
             return sub + postFix + "ay";
         }
