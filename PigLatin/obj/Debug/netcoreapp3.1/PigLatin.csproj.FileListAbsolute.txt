@@ -11,3 +11,17 @@ C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Lab Solutions\PigLatin\PigLati
 C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Lab Solutions\PigLatin\PigLatin\obj\Debug\netcoreapp3.1\PigLatin.pdb
 C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Lab Solutions\PigLatin\PigLatin\obj\Debug\netcoreapp3.1\PigLatin.genruntimeconfig.cache
 C:\Users\Tommy\Desktop\C# January 2021 Class Repo\Lab Solutions\PigLatin\PigLatin\obj\Debug\netcoreapp3.1\PigLatin.csprojAssemblyReference.cache
+A:\Microsoft Visual Studio\SOURCE\PigLatinBuggy\PigLatin\bin\Debug\netcoreapp3.1\PigLatin.exe
+A:\Microsoft Visual Studio\SOURCE\PigLatinBuggy\PigLatin\bin\Debug\netcoreapp3.1\PigLatin.deps.json
+A:\Microsoft Visual Studio\SOURCE\PigLatinBuggy\PigLatin\bin\Debug\netcoreapp3.1\PigLatin.runtimeconfig.json
+A:\Microsoft Visual Studio\SOURCE\PigLatinBuggy\PigLatin\bin\Debug\netcoreapp3.1\PigLatin.runtimeconfig.dev.json
+A:\Microsoft Visual Studio\SOURCE\PigLatinBuggy\PigLatin\bin\Debug\netcoreapp3.1\PigLatin.dll
+A:\Microsoft Visual Studio\SOURCE\PigLatinBuggy\PigLatin\bin\Debug\netcoreapp3.1\PigLatin.pdb
+A:\Microsoft Visual Studio\SOURCE\PigLatinBuggy\PigLatin\obj\Debug\netcoreapp3.1\PigLatin.csproj.AssemblyReference.cache
+A:\Microsoft Visual Studio\SOURCE\PigLatinBuggy\PigLatin\obj\Debug\netcoreapp3.1\PigLatin.GeneratedMSBuildEditorConfig.editorconfig
+A:\Microsoft Visual Studio\SOURCE\PigLatinBuggy\PigLatin\obj\Debug\netcoreapp3.1\PigLatin.AssemblyInfoInputs.cache
+A:\Microsoft Visual Studio\SOURCE\PigLatinBuggy\PigLatin\obj\Debug\netcoreapp3.1\PigLatin.AssemblyInfo.cs
+A:\Microsoft Visual Studio\SOURCE\PigLatinBuggy\PigLatin\obj\Debug\netcoreapp3.1\PigLatin.csproj.CoreCompileInputs.cache
+A:\Microsoft Visual Studio\SOURCE\PigLatinBuggy\PigLatin\obj\Debug\netcoreapp3.1\PigLatin.dll
+A:\Microsoft Visual Studio\SOURCE\PigLatinBuggy\PigLatin\obj\Debug\netcoreapp3.1\PigLatin.pdb
+A:\Microsoft Visual Studio\SOURCE\PigLatinBuggy\PigLatin\obj\Debug\netcoreapp3.1\PigLatin.genruntimeconfig.cache
